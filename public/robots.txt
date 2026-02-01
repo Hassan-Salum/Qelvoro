@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://atlasailab.com/sitemap.xml
+Sitemap: https://qelvoro.site/sitemap.xml
